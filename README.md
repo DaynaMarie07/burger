@@ -22,7 +22,7 @@ node server
 Running the tests
 To use the app, open your browser and navigate to
 
-http://localhost:3000/index
+http://localhost:8080/index
 You should see something like this:
 
 Eat-The-Burger Screenshot
@@ -37,5 +37,3 @@ Express
 Sequelize
 Authors
 Dayna Payne - daynamarie07
-Acknowledgments
-@darinboesch & the TA's Chris Carter & Dave Jan
